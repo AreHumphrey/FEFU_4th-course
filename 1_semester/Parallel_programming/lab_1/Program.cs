@@ -30,7 +30,7 @@ class Program
 
     static void PrintValue(float x)
     {
-        Console.WriteLine($"  ➤ Обработка значения: {x:F2}");
+        Console.WriteLine($"Обработка значения: {x:F2}");
     }
 
     static void Main(string[] args)
@@ -42,15 +42,15 @@ class Program
 
         Action<float> printer = PrintValue;
 
-        Console.WriteLine("→ Вызов метода 1:");
+        Console.WriteLine("Вызов метода 1:");
         bool res1 = del1(printer, 3, 2.0f);
         Console.WriteLine($"Результат: {res1}\n");
 
-        Console.WriteLine("→ Вызов метода 2 (неудачный):");
+        Console.WriteLine("Вызов метода 2 (неудачный):");
         bool res2 = del2(printer, 1, 3.0f);
         Console.WriteLine($"Результат: {res2}\n");
 
-        Console.WriteLine("→ Вызов метода 2 (успешный):");
+        Console.WriteLine("Вызов метода 2 (успешный):");
         bool res3 = del2(printer, 4, 6.0f);
         Console.WriteLine($"Результат: {res3}\n");
 
@@ -61,7 +61,7 @@ class Program
             return v + c > 10;
         };
 
-        Console.WriteLine("→ Вызов через лямбду:");
+        Console.WriteLine("Вызов через лямбду:");
         bool res4 = lambdaDel(printer, 5, 6.5f);
         Console.WriteLine($"Результат лямбды: {res4}");
     }
