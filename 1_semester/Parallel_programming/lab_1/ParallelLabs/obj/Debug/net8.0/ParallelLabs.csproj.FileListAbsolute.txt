@@ -1,0 +1,14 @@
+/Users/a123/ParallelLabs/bin/Debug/net8.0/ParallelLabs
+/Users/a123/ParallelLabs/bin/Debug/net8.0/ParallelLabs.deps.json
+/Users/a123/ParallelLabs/bin/Debug/net8.0/ParallelLabs.runtimeconfig.json
+/Users/a123/ParallelLabs/bin/Debug/net8.0/ParallelLabs.dll
+/Users/a123/ParallelLabs/bin/Debug/net8.0/ParallelLabs.pdb
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.AssemblyInfoInputs.cache
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.AssemblyInfo.cs
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.csproj.CoreCompileInputs.cache
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.dll
+/Users/a123/ParallelLabs/obj/Debug/net8.0/refint/ParallelLabs.dll
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.pdb
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ParallelLabs.genruntimeconfig.cache
+/Users/a123/ParallelLabs/obj/Debug/net8.0/ref/ParallelLabs.dll
